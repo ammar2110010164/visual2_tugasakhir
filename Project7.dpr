@@ -2,12 +2,12 @@ program Project7;
 
 uses
   Forms,
-  user in 'user.pas' {Form1};
+  user in 'user.pas' {Form7};
 
 {$R *.res}
 
 begin
   Application.Initialize;
-  Application.CreateForm(TForm1, Form1);
+  Application.CreateForm(TForm7, Form7);
   Application.Run;
 end.

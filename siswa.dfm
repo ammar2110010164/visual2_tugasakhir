@@ -1,4 +1,4 @@
-object Form1: TForm1
+object Form6: TForm6
   Left = 192
   Top = 152
   Width = 928
@@ -308,7 +308,7 @@ object Form1: TForm1
     Database = 'datasiswa'
     User = 'root'
     Protocol = 'mysql'
-    LibraryLocation = 'C:\Tugas Akhir Visual\libmysql.dll'
+    LibraryLocation = 'C:\visual_tugasakhir\libmysql.dll'
     Left = 72
     Top = 368
   end

@@ -14,6 +14,7 @@ type
     lbl3: TLabel;
     lbl4: TLabel;
     lbl5: TLabel;
+    lbl6: TLabel;
     dbgrd1: TDBGrid;
     edt1: TEdit;
     edt2: TEdit;
@@ -26,13 +27,12 @@ type
     btn4: TButton;
     btn5: TButton;
     btn6: TButton;
+    edt6: TEdit;
     con1: TZConnection;
     zqry1: TZQuery;
     ds1: TDataSource;
     frxdbdtst1: TfrxDBDataset;
     frxrprt1: TfrxReport;
-    lbl6: TLabel;
-    edt6: TEdit;
   private
     { Private declarations }
   public

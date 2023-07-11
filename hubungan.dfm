@@ -3,7 +3,7 @@ object Form1: TForm1
   Top = 152
   Width = 928
   Height = 480
-  Caption = 'Form Hubungan'
+  Caption = 'form hubungan'
   Color = clBtnFace
   Font.Charset = DEFAULT_CHARSET
   Font.Color = clWindowText
@@ -168,7 +168,7 @@ object Form1: TForm1
     Database = 'datasiswa'
     User = 'root'
     Protocol = 'mysql'
-    LibraryLocation = 'C:\Tugas Akhir Visual\libmysql.dll'
+    LibraryLocation = 'C:\visual_tugasakhir\libmysql.dll'
     Left = 72
     Top = 368
   end

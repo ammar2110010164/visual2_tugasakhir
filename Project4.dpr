@@ -2,12 +2,12 @@ program Project4;
 
 uses
   Forms,
-  poin in 'poin.pas' {Form1};
+  poin in 'poin.pas' {Form4};
 
 {$R *.res}
 
 begin
   Application.Initialize;
-  Application.CreateForm(TForm1, Form1);
+  Application.CreateForm(TForm4, Form4);
   Application.Run;
 end.

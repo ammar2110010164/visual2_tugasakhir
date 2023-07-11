@@ -8,7 +8,7 @@ uses
   ZDataset, ZAbstractConnection, ZConnection, StdCtrls, Grids, DBGrids;
 
 type
-  TForm1 = class(TForm)
+  TForm5 = class(TForm)
     lbl1: TLabel;
     lbl2: TLabel;
     lbl3: TLabel;
@@ -46,7 +46,7 @@ type
   end;
 
 var
-  Form1: TForm1;
+  Form5: TForm5;
 
 implementation
 

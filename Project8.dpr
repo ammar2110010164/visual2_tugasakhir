@@ -2,12 +2,12 @@ program Project8;
 
 uses
   Forms,
-  walikelas in 'walikelas.pas' {Form1};
+  walikelas in 'walikelas.pas' {Form8};
 
 {$R *.res}
 
 begin
   Application.Initialize;
-  Application.CreateForm(TForm1, Form1);
+  Application.CreateForm(TForm8, Form8);
   Application.Run;
 end.

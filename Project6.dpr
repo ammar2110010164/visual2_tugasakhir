@@ -2,12 +2,12 @@ program Project6;
 
 uses
   Forms,
-  siswa in 'siswa.pas' {Form1};
+  siswa in 'siswa.pas' {Form6};
 
 {$R *.res}
 
 begin
   Application.Initialize;
-  Application.CreateForm(TForm1, Form1);
+  Application.CreateForm(TForm6, Form6);
   Application.Run;
 end.
